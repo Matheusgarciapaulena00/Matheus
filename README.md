@@ -35,7 +35,7 @@
 ## Contato
 
 ### - E-mail: paulena.matheus@escola.pr.gov.br
-### - GitHub: paulena.matheus@escola.pr.gov.br
+### - GitHub: Matheusgarciapaulena00/Matheus 
 ### - LinkedIn: matheusgarciapaulena@gmai.com
 
 ---
